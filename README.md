@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Fasika!
 
-<!--
-**fasikayonas/fasikayonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineering Student | Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🌷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering student passionate about building creative, interactive, and user-friendly applications. I'm continuously learning, practicing, and improving my coding skills by working on projects and exploring new technologies.
+
+## 🚀 About Me
+
+- 🎓 Studying Software Engineering at Debre Berhan University.
+- 🌱 Currently learning React.js, Next.js, and modern frontend development.
+- 💻 Practicing HTML, CSS, JavaScript, Python, Java, and C++.
+- 🎨 Interested in creative UI design and building engaging web experiences.
+- 🧠 Learning data structures, databases, and software development principles.
+- 🎯 My goal is to become a skilled frontend developer and build meaningful projects.
+
+## 🛠️ Languages and Technologies
+-HTML5
+-CSS
+-JAVA
+-JavaScript
+-C++
+
+## 📌 What You'll Find Here
+
+
+- 🐍 Python exercises and small applications
+- ☕ Java and C++ programming practice
+- 🎓 University projects and learning activities
